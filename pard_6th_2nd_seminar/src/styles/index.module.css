@@ -1,0 +1,13 @@
+.moduleButton {
+  padding: 1.25rem 2.5rem;   /* 크게 */
+  border-radius: 1rem;
+  background-color: #9333ea; /* 보라색 */
+  color: white;
+  font-weight: 600;
+  font-size: 1.25rem;        /* text-lg */
+  transition: background-color 0.2s;
+}
+
+.moduleButton:hover {
+  background-color: #7e22ce;
+}
